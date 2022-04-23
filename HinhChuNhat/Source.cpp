@@ -6,6 +6,7 @@ class Rectangle {
 public:
     double width;
     double length;
+    int a;
 
     void getInformation() {
         cin >> width;
