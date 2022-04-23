@@ -7,6 +7,7 @@ public:
     double width;
     double length;
     int a;
+    int b int c
 
     void getInformation() {
         cin >> width;
